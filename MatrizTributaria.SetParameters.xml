@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="precisomtx" />
+  <setParameter name="MatrizDbContext-Web.config Connection String" value="Server=localhost;Database=bd_precisomtx;Uid=root;Pwd=1234;" />
+</parameters>
